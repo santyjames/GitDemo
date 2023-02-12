@@ -13,6 +13,8 @@ public class SelIntroduction {
 		
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\User\\Downloads\\Testing Software\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
+		System.out.println("Test 1");
+		System.out.println("Test 2");
 		
 		
 		
